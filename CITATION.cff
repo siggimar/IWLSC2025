@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Valsson"
+  given-names: "Sigurður Már"
+  orcid: "https://orcid.org/0009-0005-3874-216X"
+title: "Computer codes supporting paper 'Triangulated density models for detecting brittle materials with CPTu', submitted to the 2025 IWLSC conference in Quebec"
+version: 2005.01
+doi: 10.5281/zenodo.15477280
+date-released: 2025-20-05
+url: "https://github.com/github-linguist/linguist"
